@@ -37,10 +37,12 @@ public class System_hospitalier {
 		// Analyser la requête
 		return "requête analysée";
 	}
+	//analyserRequête prend en paramêtre une requête de type Requête pour l'analyser et retourner un type String prevenant que la requête a été analysée
 	
 	private String comparerDonnes() {
 		// Comparaison des données
 		return "Cluster trouvé";
 	}
+	//comparerDonnes (ne prend rien en paramêtre) compare les données et retourner un type String prevenant qu'un cluster a été trouvé
 
 }

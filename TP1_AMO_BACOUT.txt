@@ -1,3 +1,3 @@
 AMO Anelly
 BACOUT Valentin
-
+Le fichier TP1_AMO_BACOUT n'apparait plus dans la branche master car on l'a déplacer dans la branche mon_fichier grace à la commande git add et commité grace a la commande git commit -m
